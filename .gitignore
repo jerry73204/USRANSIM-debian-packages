@@ -1,0 +1,12 @@
+# editor
+*~
+.*~
+*.swp
+*.swo
+\#*#
+
+# build artifacts
+/src/
+/pkg/
+/*.deb
+/ueransim-*/
